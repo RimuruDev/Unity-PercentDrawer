@@ -2,6 +2,10 @@
 
 This solution includes a custom attribute `PercentageAttribute` and a property drawer `PercentDrawer` that work together to provide a convenient way of displaying float values as percentages in the Unity Editor.
 
+![image](https://github.com/RimuruDev/Unity-PercentDrawer/assets/85500556/274123a4-415b-4b49-825c-ab7a0568262a)
+![image](https://github.com/RimuruDev/Unity-PercentDrawer/assets/85500556/689774b6-279a-4a74-96f4-76a054025398)
+
+
 ## Installation
 
 1. Create a folder named `Editor` within your project's `Assets` directory if it does not already exist. Unity requires that all editor scripts be located in a folder named `Editor`.
