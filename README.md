@@ -90,3 +90,5 @@ Contributions to improve the `PercentageAttribute` and `PercentDrawer` are welco
 
 # License
 This project is licensed under the GNU License - see the LICENSE file for details.
+
+Made by RimuruDev
