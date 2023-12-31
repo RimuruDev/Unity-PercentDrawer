@@ -88,6 +88,10 @@ For support, questions, or contributions, please open an issue on the repository
 Contributing
 Contributions to improve the `PercentageAttribute` and `PercentDrawer` are welcome. Please follow the standard pull request process to submit improvements.
 
+# TODO:
+- Add package in Relese
+- Add Unity package manager
+
 # License
 This project is licensed under the GNU License - see the LICENSE file for details.
 
