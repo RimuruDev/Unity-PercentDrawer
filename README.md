@@ -44,6 +44,14 @@ to provide a convenient way of displaying float values as percentages in the Uni
 4. Enter the following URL:   ``` https://github.com/RimuruDev/Unity-PercentDrawer.git ```
 5. Click `Add` to install the package.
 
+6. If error -
+```
+Library/PackageCache/unity-percent-drawer@390d399580/Sources/Editor/PercentDrawer.cs(22,34):
+error CS0246: The type or namespace name 'PercentageAttribute' could not be found (are you missing a using directive or an assembly reference?)
+```
+Go next -> Option 2: Install from Releases
+
+
 ### Option 2: Install from Releases
 
 1. Go to the [Releases](https://github.com/RimuruDev/Unity-PercentDrawer/releases) page in this repository.
