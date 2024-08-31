@@ -1,0 +1,29 @@
+{
+  "name": "unity-percent-drawer",
+  "version": "1.0.1",
+  "description": "A Unity Editor tool that provides a custom property drawer for displaying float values as percentages in the inspector.",
+  "author": "RimuruDev",
+  "license": "GNU",
+  "main": "Editor/PercentDrawer.cs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RimuruDev/Unity-PercentDrawer.git"
+  },
+  "keywords": [
+    "unity",
+    "editor",
+    "rimurudev",
+    "rimuru-dev",
+    "property drawer",
+    "percentage",
+    "float",
+    "inspector"
+  ],
+  "bugs": {
+    "email": "rimuru.dev@gmail.com",
+    "url": "https://github.com/RimuruDev/Unity-PercentDrawer/issues"
+  },
+  "homepage": "https://github.com/RimuruDev/Unity-PercentDrawer",
+  "dependencies": {}
+}
